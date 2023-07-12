@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'SouttiaDEMO';
+    src: url('../fuente/SouttiaDEMO.otf') format('truetype');
+}
+h1{
+ color: aqua;
+ text-align: center;
+}
+.banner{
+    background-color: rebeccapurple;
+    height:100px;
+    width:800px;
+    border:1px;
+    font-family: 'SouttiaDEMO', cursive;
+}

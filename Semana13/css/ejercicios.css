@@ -1,0 +1,26 @@
+.caja{
+    border:1px solid greenyellow;
+    border-radius: 20px;
+    width:200px;
+    margin: 50px auto;
+    padding: 30px;
+    height:200px;
+    background-color: #aa0;
+    transition: transform 3000ms;
+    
+}
+.caja:hover{
+    transform:rotate(180deg);
+}
+h1{
+    text-align: center;
+    color:blue;
+    text-shadow: 3px 3px 5px #f00,
+                 6px 6px 5px #0f0,
+                 9px 9px 5px #00f;
+}
+h2{
+    text-shadow: -5px -5px 5px #0f0,
+    9px 9px 5px #00f;
+    text-align: center;
+}
